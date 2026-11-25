@@ -1,0 +1,9 @@
+# one-line entry — local artefacts only, never committed
+__pycache__/
+*.py[cod]
+/output/
+.bundle/
+kit-downloads/
+*.log
+.DS_Store
+Thumbs.db
